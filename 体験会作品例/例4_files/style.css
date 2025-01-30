@@ -1,0 +1,68 @@
+*{
+    font-family: 'Miss Fajardose', cursive;
+    letter-spacing:0.15em;
+}
+
+
+.navbar{
+    background-color:white;
+}
+
+.top-section { 
+    height: 100vh;
+    width: 100vw;
+    background-image: url(https://media1.tokyodisneyresort.jp/images/adventure/blog/img191226_1.jpg);
+    background-size: cover;
+}
+
+
+.top-content{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-items: center;
+    align-items: center;
+}
+
+.top-content h1 {
+    /* display: inline; */
+    font-size: 5em;
+    font-weight: bold;
+ 
+    color: burlywood;
+    text-align: center;
+}
+
+.content-section { 
+    background-color: palegoldenrod;
+}
+
+.content-section .container { 
+    padding: 1rem;
+}
+
+.my-footer{
+    height: 20vh;
+    background-color: white;
+}
+
+.my-footer .container { 
+    padding: 1rem;
+}
+
+.footer-row{
+    height: 100%;
+}
+
+.privacy-policy-link{
+    color: #3cbf49;
+}
+
+
+
+.card-title{
+    color:orange;
+    font-size: 2em;
+    font-weight: bolder;
+    
+}

@@ -1,0 +1,60 @@
+.navbar{
+    background-color:white;
+}
+
+.top-section { 
+    height: 100vh;
+    width: 100vw;
+    background-image: url(https://www.healthyeating.org/images/default-source/home-0.0/nutrition-topics-2.0/milk-dairy/2-1-3-1dairyfoods_cheese_detailfeature_thumb.jpg?sfvrsn=aba8c621_4);
+    background-size: cover;
+}
+
+
+.top-content{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-items: center;
+    align-items: center;
+}
+
+.top-content h1 {
+    /* display: inline; */
+    font-size: 8em;
+    font-weight: bold;
+    font-family: "caveat",cursive;
+    color: rgba(255, 255, 0, 0.87);
+    text-align: center;
+}
+
+.content-section { 
+    background-color: blanchedalmond
+}
+
+.content-section .container { 
+    padding: 1rem;
+}
+
+.my-footer{
+    height: 20vh;
+    background-color: white;
+}
+
+.my-footer .container { 
+    padding: 1rem;
+}
+
+.footer-row{
+    height: 100%;
+}
+
+.privacy-policy-link{
+    color: burlywood;
+}
+
+
+
+.card-title{color: rgba(255, 115, 0, 0.829);
+    font-family: "Itim";}
+
+

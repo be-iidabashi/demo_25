@@ -1,0 +1,63 @@
+*
+{font-family: 'Kosugi Maru', sans-serif;
+}
+
+.navbar{
+    background-color:rgb(255, 255, 255);
+}
+
+.top-section { 
+    height: 100vh;
+    width: 100vw;
+    background-image: url(https://i-ogp.pximg.net/c/540x540_70/img-master/img/2020/12/26/20/35/48/86558286_p0_square1200.jpg);
+    background-size: cover;
+}
+
+
+.top-content{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-items: center;
+    align-items: center;
+}
+
+.top-content h1 {
+    /* display: inline; */
+    font-size: 8.5em;
+    font-weight: bold;
+    font-family: 'Kosugi Maru', sans-serif;
+    color: blue;
+    text-align: center;
+}
+
+.content-section { 
+    background-color: #464646;
+}
+
+.content-section .container { 
+    padding: 1rem;
+}
+
+.my-footer{
+    height: 20vh;
+    background-color: rgb(255, 255, 255);
+}
+
+.my-footer .container { 
+    padding: 1rem;
+}
+
+.footer-row{
+    height: 100%;
+}
+
+.privacy-policy-link{
+    color: #b6bf3c;
+}
+
+
+
+.test{
+    color: blue;
+}
